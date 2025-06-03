@@ -95,7 +95,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
     </a>
      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="30" height="30"/>
+        <img src="[https://nestjs.com/logo-small-gradient.76616405.svg](https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg)" alt="nestjs" width="30" height="30"/>
     </a>
   </kbd>
   <kbd>

@@ -95,7 +95,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="30" height="30"/>
     </a>
      <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="[[https://nestjs.com/logo-small-gradient.76616405.svg](https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbradbeighton.medium.com%2Fnestjs-the-pros-and-cons-aff714607b07&psig=AOvVaw0jJhYhWoOWkU1wAWQmOFDi&ust=1749018436975000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjA3MrP1I0DFQAAAAAdAAAAABAE)" alt="nestjs" width="30" height="30"/>
+        <img src="[[[[https://nestjs.com/logo-small-gradient.76616405.svg](https://miro.medium.com/v2/resize:fit:1400/1*s9kgU8F1eB7Tzs7sG0YhBg.jpeg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbradbeighton.medium.com%2Fnestjs-the-pros-and-cons-aff714607b07&psig=AOvVaw0jJhYhWoOWkU1wAWQmOFDi&ust=1749018436975000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjA3MrP1I0DFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fpatferraggi%2Fone-week-with-nest-js-is-it-good-5hgo&psig=AOvVaw3bR0CtR-cTf7HsEjc-1Wjk&ust=1749018728453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNimnNPQ1I0DFQAAAAAdAAAAABAE)](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwh08k610469i6eao2w81.jpeg)" alt="nestjs" width="30" height="30"/>
     </a>
   </kbd>
   <kbd>
